@@ -3,7 +3,7 @@
 
 ## How to Download
 
-Download this project from here [Download MA Online YouTube Video Downloader Pytest Testing]
+Download this project from here
 
 https://github.com/ma-muhammadali/MAOnlineYouTubeVideoDownloader_Pytest_Testing.git
 
